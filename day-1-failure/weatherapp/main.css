@@ -1,0 +1,12 @@
+.box-2{
+   flex-direction: row;
+   display: flex;
+   
+}
+
+
+.weather-information-screen{
+    display: flex;
+    row-gap: 50px;
+    
+}
